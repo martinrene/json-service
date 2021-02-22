@@ -1,695 +1,347 @@
 {
-
   "title": "Mine genveje Kbh",
-
-  "links": 
-
-[
-
-  {
-
-    "audience": [
-
-      "student"
-
-    ],
-
-    "linkId": "d9a8f11f-f6b9-4d21-8b77-04249cefbda3",
-
-    "displayName": "STUDENT FOLDER",
-
-    "uri": "",
-
-    "roles": [
-
-      "student"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "",
-
-    "parentId": null,
-
-    "sort": 2147483647,
-
-    "showInAula": null,
-
-    "isFolder": true,
-
-    "OpenIn": null,
-
-    "Domain": null
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "45b6720b-c4a8-43f8-8862-1be96a4cb4a6",
-
-    "displayName": "Ping pong",
-
-    "uri": "",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "",
-
-    "parentId": null,
-
-    "sort": 2147483647,
-
-    "showInAula": null,
-
-    "isFolder": true,
-
-    "OpenIn": null,
-
-    "Domain": null
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "51265bc8-e663-481d-9e77-44526c4ce0e7",
-
-    "displayName": "SkoleTube",
-
-    "uri": "https://skoletube.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
-
-    "parentId": "45b6720b-c4a8-43f8-8862-1be96a4cb4a6",
-
-    "sort": 9999999,
-
-    "showInAula": false,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "https"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "2316a6af-06cd-4ded-b16e-d8eedad344a7",
-
-    "displayName": "kk",
-
-    "uri": "http://kukkuk.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/kukkuk.dk.ico",
-
-    "parentId": "45b6720b-c4a8-43f8-8862-1be96a4cb4a6",
-
-    "sort": 2,
-
-    "showInAula": true,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "kukkuk.dk"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": null,
-
-    "displayName": "Usynlig Root folder",
-
-    "uri": "",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "",
-
-    "parentId": null,
-
-    "sort": 2147483647,
-
-    "showInAula": null,
-
-    "isFolder": true,
-
-    "OpenIn": null,
-
-    "Domain": null
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "2e814eaf-28d0-4151-b0f3-04340cd4ebeb",
-
-    "displayName": "fdf.dk",
-
-    "uri": "https://fdf.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
-
-    "parentId": null,
-
-    "sort": 0,
-
-    "showInAula": false,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "https"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "fded6736-9ff9-4772-ae37-3d451776c2b0",
-
-    "displayName": "kk",
-
-    "uri": "http://kukkuk.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/kukkuk.dk.ico",
-
-    "parentId": null,
-
-    "sort": 2,
-
-    "showInAula": true,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "kukkuk.dk"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "d4ca1b46-d7d4-446e-82f7-d4fee32ca63a",
-
-    "displayName": "SkoleTube",
-
-    "uri": "https://skoletube.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
-
-    "parentId": null,
-
-    "sort": 9999999,
-
-    "showInAula": false,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "https"
-
-  },
-
-  {
-
-    "audience": [
-
-      "student"
-
-    ],
-
-    "linkId": "84231916-ca5d-4082-ac5c-67a78bcfd1dc",
-
-    "displayName": "Folder",
-
-    "uri": "",
-
-    "roles": [
-
-      "student"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "",
-
-    "parentId": null,
-
-    "sort": 2147483647,
-
-    "showInAula": null,
-
-    "isFolder": true,
-
-    "OpenIn": null,
-
-    "Domain": null
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "7171339c-ebc8-4163-a676-be034073fd9c",
-
-    "displayName": "Janus folder",
-
-    "uri": "",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "",
-
-    "parentId": null,
-
-    "sort": 2147483647,
-
-    "showInAula": null,
-
-    "isFolder": true,
-
-    "OpenIn": null,
-
-    "Domain": null
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "6bde2c68-800f-4140-b784-31c3ea0d3fd7",
-
-    "displayName": "Bordbold",
-
-    "uri": "https://bold.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
-
-    "parentId": "7171339c-ebc8-4163-a676-be034073fd9c",
-
-    "sort": 2,
-
-    "showInAula": true,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "https"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "7263d42f-5931-47df-aa8f-6b2e0eb5edb8",
-
-    "displayName": "Ostehaps",
-
-    "uri": "https://ostehaps.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
-
-    "parentId": "7171339c-ebc8-4163-a676-be034073fd9c",
-
-    "sort": 0,
-
-    "showInAula": true,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "https"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "b59422b1-d8bd-45c9-b742-95fb1753c266",
-
-    "displayName": "Janus Vittrup",
-
-    "uri": "https://sker.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
-
-    "parentId": "7171339c-ebc8-4163-a676-be034073fd9c",
-
-    "sort": 1,
-
-    "showInAula": true,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "https"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "87e0d737-bce0-4a10-8b02-f08cc5b5c87f",
-
-    "displayName": "TV2 - 5",
-
-    "uri": "https://tv2.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
-
-    "parentId": "7171339c-ebc8-4163-a676-be034073fd9c",
-
-    "sort": 3,
-
-    "showInAula": false,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "https"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "cdbec82c-50d9-42da-b902-f24ab75da4c7",
-
-    "displayName": "Kunder",
-
-    "uri": "",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "",
-
-    "parentId": null,
-
-    "sort": 2147483647,
-
-    "showInAula": null,
-
-    "isFolder": true,
-
-    "OpenIn": null,
-
-    "Domain": null
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "e3d41ae0-f66d-4477-b0ef-dcdb57e969dc",
-
-    "displayName": "Odense",
-
-    "uri": "http://odense.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/odense.dk.ico",
-
-    "parentId": "cdbec82c-50d9-42da-b902-f24ab75da4c7",
-
-    "sort": 2,
-
-    "showInAula": true,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "odense.dk"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "ac9114c2-dc73-4b07-a5e7-f595817a85da",
-
-    "displayName": "Kolding",
-
-    "uri": "http://kolding.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/kolding.dk.ico",
-
-    "parentId": "cdbec82c-50d9-42da-b902-f24ab75da4c7",
-
-    "sort": 2,
-
-    "showInAula": true,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "kolding.dk"
-
-  },
-
-  {
-
-    "audience": [
-
-      "teacher"
-
-    ],
-
-    "linkId": "b291d882-ff0d-4296-8e06-fe52e0f5d840",
-
-    "displayName": "Viborg",
-
-    "uri": "http://viborg.dk",
-
-    "roles": [
-
-      "teacher"
-
-    ],
-
-    "source": "institution",
-
-    "icon": "https://icons.duckduckgo.com/ip3/viborg.dk.ico",
-
-    "parentId": "cdbec82c-50d9-42da-b902-f24ab75da4c7",
-
-    "sort": 2,
-
-    "showInAula": true,
-
-    "isFolder": false,
-
-    "OpenIn": "_blank",
-
-    "Domain": "viborg.dk"
-
-  }
-
-]
-
+  "links": [
+    {
+      "audience": [
+        "student"
+      ],
+      "linkId": "d9a8f11f-f6b9-4d21-8b77-04249cefbda3",
+      "displayName": "STUDENT FOLDER",
+      "uri": "",
+      "roles": [
+        "student"
+      ],
+      "source": "institution",
+      "icon": "",
+      "parentId": null,
+      "sort": 2147483647,
+      "showInAula": null,
+      "isFolder": true,
+      "OpenIn": null,
+      "Domain": null
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "45b6720b-c4a8-43f8-8862-1be96a4cb4a6",
+      "displayName": "Ping pong",
+      "uri": "",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "",
+      "parentId": null,
+      "sort": 2147483647,
+      "showInAula": null,
+      "isFolder": true,
+      "OpenIn": null,
+      "Domain": null
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "51265bc8-e663-481d-9e77-44526c4ce0e7",
+      "displayName": "SkoleTube",
+      "uri": "https://skoletube.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+      "parentId": "45b6720b-c4a8-43f8-8862-1be96a4cb4a6",
+      "sort": 9999999,
+      "showInAula": false,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "https"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "2316a6af-06cd-4ded-b16e-d8eedad344a7",
+      "displayName": "kk",
+      "uri": "http://kukkuk.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/kukkuk.dk.ico",
+      "parentId": "45b6720b-c4a8-43f8-8862-1be96a4cb4a6",
+      "sort": 2,
+      "showInAula": true,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "kukkuk.dk"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": null,
+      "displayName": "Usynlig Root folder",
+      "uri": "",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "",
+      "parentId": null,
+      "sort": 2147483647,
+      "showInAula": null,
+      "isFolder": true,
+      "OpenIn": null,
+      "Domain": null
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "2e814eaf-28d0-4151-b0f3-04340cd4ebeb",
+      "displayName": "fdf.dk",
+      "uri": "https://fdf.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+      "parentId": null,
+      "sort": 0,
+      "showInAula": false,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "https"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "fded6736-9ff9-4772-ae37-3d451776c2b0",
+      "displayName": "kk",
+      "uri": "http://kukkuk.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/kukkuk.dk.ico",
+      "parentId": null,
+      "sort": 2,
+      "showInAula": true,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "kukkuk.dk"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "d4ca1b46-d7d4-446e-82f7-d4fee32ca63a",
+      "displayName": "SkoleTube",
+      "uri": "https://skoletube.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+      "parentId": null,
+      "sort": 9999999,
+      "showInAula": false,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "https"
+    },
+    {
+      "audience": [
+        "student"
+      ],
+      "linkId": "84231916-ca5d-4082-ac5c-67a78bcfd1dc",
+      "displayName": "Folder",
+      "uri": "",
+      "roles": [
+        "student"
+      ],
+      "source": "institution",
+      "icon": "",
+      "parentId": null,
+      "sort": 2147483647,
+      "showInAula": null,
+      "isFolder": true,
+      "OpenIn": null,
+      "Domain": null
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "7171339c-ebc8-4163-a676-be034073fd9c",
+      "displayName": "Janus folder",
+      "uri": "",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "",
+      "parentId": null,
+      "sort": 2147483647,
+      "showInAula": null,
+      "isFolder": true,
+      "OpenIn": null,
+      "Domain": null
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "6bde2c68-800f-4140-b784-31c3ea0d3fd7",
+      "displayName": "Bordbold",
+      "uri": "https://bold.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+      "parentId": "7171339c-ebc8-4163-a676-be034073fd9c",
+      "sort": 2,
+      "showInAula": true,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "https"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "7263d42f-5931-47df-aa8f-6b2e0eb5edb8",
+      "displayName": "Ostehaps",
+      "uri": "https://ostehaps.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+      "parentId": "7171339c-ebc8-4163-a676-be034073fd9c",
+      "sort": 0,
+      "showInAula": true,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "https"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "b59422b1-d8bd-45c9-b742-95fb1753c266",
+      "displayName": "Janus Vittrup",
+      "uri": "https://sker.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+      "parentId": "7171339c-ebc8-4163-a676-be034073fd9c",
+      "sort": 1,
+      "showInAula": true,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "https"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "87e0d737-bce0-4a10-8b02-f08cc5b5c87f",
+      "displayName": "TV2 - 5",
+      "uri": "https://tv2.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+      "parentId": "7171339c-ebc8-4163-a676-be034073fd9c",
+      "sort": 3,
+      "showInAula": false,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "https"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "cdbec82c-50d9-42da-b902-f24ab75da4c7",
+      "displayName": "Kunder",
+      "uri": "",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "",
+      "parentId": null,
+      "sort": 2147483647,
+      "showInAula": null,
+      "isFolder": true,
+      "OpenIn": null,
+      "Domain": null
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "e3d41ae0-f66d-4477-b0ef-dcdb57e969dc",
+      "displayName": "Odense",
+      "uri": "http://odense.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/odense.dk.ico",
+      "parentId": "cdbec82c-50d9-42da-b902-f24ab75da4c7",
+      "sort": 2,
+      "showInAula": true,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "odense.dk"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "ac9114c2-dc73-4b07-a5e7-f595817a85da",
+      "displayName": "Kolding",
+      "uri": "http://kolding.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/kolding.dk.ico",
+      "parentId": "cdbec82c-50d9-42da-b902-f24ab75da4c7",
+      "sort": 2,
+      "showInAula": true,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "kolding.dk"
+    },
+    {
+      "audience": [
+        "teacher"
+      ],
+      "linkId": "b291d882-ff0d-4296-8e06-fe52e0f5d840",
+      "displayName": "Viborg",
+      "uri": "http://viborg.dk",
+      "roles": [
+        "teacher"
+      ],
+      "source": "institution",
+      "icon": "https://icons.duckduckgo.com/ip3/viborg.dk.ico",
+      "parentId": "cdbec82c-50d9-42da-b902-f24ab75da4c7",
+      "sort": 2,
+      "showInAula": true,
+      "isFolder": false,
+      "OpenIn": "_blank",
+      "Domain": "viborg.dk"
+    }
+  ]
 }
